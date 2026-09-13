@@ -3,7 +3,9 @@ project name = Sql retail sales
 Dataset = sql-Reatail sales analysis_utf.csv
 
 projects overview
-This project analyzes retail sales data using SQL to uncover business insights and answer real-world business questions. The analysis focuses on customer behavior, product performance, sales trends,average sale. It demonstrates how SQL can be used for data cleaning, exploration, aggregation, and reporting.
+This project analyzes retail sales data using SQL to uncover business insights and answer real-world business questions. 
+The analysis focuses on customer behavior, product performance, sales trends,average sale. It demonstrates how SQL can be
+used for data cleaning, exploration, aggregation, and reporting.
 
 SQL Skills Used
 SELECT
